@@ -1,0 +1,6 @@
+[package]
+name = "qlitch"
+version = "0.1.0"
+authors = ["UENISHI Kota <kuenishi@gmail.com>"]
+
+[dependencies]
